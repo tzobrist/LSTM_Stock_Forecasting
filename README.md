@@ -7,9 +7,9 @@ Author: Trevor Zobrist
 Yahoo Finance API realtime chart display
 
 ## engine.py
-Keras LSTM model that output 1 timestep predicition given last 60 timesteps
+Keras LSTM model that output 1 timestep predicition given last 60 timesteps, used to predict next 10 timesteps recurively
 
-Model is trained on last 20 years of historical data from Yahoo API (or less if stock isn't as old)
+Model is trained on last 20 years of SPY, AAPL, or TSLA historical data from Yahoo API (or less if stock isn't as old)
 
 After each training model's weight configuration is saved as .h5 file
 
