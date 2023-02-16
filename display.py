@@ -1,4 +1,4 @@
-# Real Time stock analyzer
+# Stock Closing Price analysis
 # What it needs to do:
 #   Get real time stock info. (probably Yahoo finance?)
 #   Analyze information with ML/AI (Keras)
