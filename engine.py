@@ -5,7 +5,6 @@
 # Author: Trevor Zobrist
 
 # Current TODO:
-# Implement API?
 # Hyperparameter tuning of model
 
 # BEST PERFORMANCE METRICS TO DATE:
