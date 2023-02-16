@@ -1,5 +1,4 @@
 # Send SMS messages of current models stats and forecast for given Stock Ticker (SPY, AAPL, TSLA)
-# Author: Trevor Zobrist
 import smtplib
 
 carriers = {
